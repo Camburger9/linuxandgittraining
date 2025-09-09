@@ -1,0 +1,18 @@
+Linux commands: 
+
+Pico to open and edit files, (i use nano because i prefer it)
+ls -... to look at all the files in the directory
+cd and cd .. to enter and exit directories
+mkdir to make new directories
+pwd to see what directory we are in
+
+Git commands:
+
+git config --global user.email entering my git email
+git config --global user.username entering my git username
+git clone to copy a repository onto my linux machine
+git status to check the status of the repository on my machine
+git add to add the file i want to be updated in the repository
+git commit to commit the chnages i want to be made
+git push to update the file in the git repository
+
